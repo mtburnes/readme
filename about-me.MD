@@ -20,4 +20,5 @@ I have experence in C++ and Java, as well as beginner's knowledge in Ruby, JavaS
 ## Contributors:
 - Michael Burnes
     - Computer Science
+
 ![my favorite profile image](https://avatars3.githubusercontent.com/u/43098443?s=40&v=4)
